@@ -50,6 +50,21 @@ This dataset can be used for:
 3) Behavioral Analysis: Exploring how demographics influence online dating habits.
 4) Data Science & AI Models: Training recommendation systems for matchmaking.
 
+
+Key Insights
+------------------------
+1) Younger Gen-Z (18-22) are the most active users, but engagement drops as they age.
+2) Tinder is dominant among younger users, while Hinge and OkCupid gain popularity among older Gen-Z.
+3) Metro city users use a wider variety of apps compared to those in smaller towns.
+4) Safety concerns and time-wasting are the most common challenges faced by users.
+
+
+Data Processing
+--------------------
+1) Categorical Encoding: Applied One-Hot Encoding for non-ordinal variables (Gender, Location, Apps, etc.).
+2) Numerical Normalization: Used MinMaxScaler to scale Age, Daily Usage Time, and Satisfaction.
+3) Feature Engineering: Created a new feature, Active App Count, to measure app diversity per user.
+
 ----------------------------------------
 ----------------------------------------
 Author: Oluwaferanmi Osunbajo
