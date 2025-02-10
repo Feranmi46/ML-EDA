@@ -1,0 +1,7 @@
+1) What were the most surprising insights from this dataset? 
+    * We see that the younger Gen-Z(18 - 22) are more active on the dating apps but then the engagement reduces as the age increases.
+    * The fact that data from the rural areas were limited which makes it a little difficult to fully analyse the gen-z dating trends in India
+2) What would you do differently if given more time?
+    Explore sentiment analysis on "Challenges" and "Desired Features" to uncover user concerns.
+3) How can we improve dataset documentation for others?
+    Include data collection methodology (e.g., survey sample, timeframe) in order for us to know how to deal with the missing values 
